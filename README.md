@@ -1,8 +1,8 @@
 # Fav-Movies-Database-with-PYTHON
 
 
-1.Place all of the three files in one folder 
-2.Execute entertainment.py 
+Place all of the three files in one folder.
+Execute entertainment_movies.py 
 
 
 This is just a sample, so u might not find many movies. 
