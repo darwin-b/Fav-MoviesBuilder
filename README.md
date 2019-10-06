@@ -1,9 +1,7 @@
 # Fav-Movies-Database-with-PYTHON
 
 
-Place all of the three files in one folder.
-Execute entertainment_movies.py 
-
+Execute entertainment_movies.py  ---------> Master Function 
 
 This is just a sample, so u might not find many movies. 
 By editing the code you can build a website of your own favourite Movies along with their trailers and posters.
