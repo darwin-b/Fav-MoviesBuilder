@@ -1,0 +1,51 @@
+{
+    "toy_story" :{
+        "title" : "Toy Story", 
+        "storyline" : "A story of a boy and his toys that come to life.",
+        "poster_image_url" : "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", 
+        "trailer_youtube_url" : "https://www.youtube.com/watch?v=KYz2wyBy3kc"
+    },
+
+    "big_hero6" :{
+        "title" : "Big Hero 6", 
+        "storyline" : "storyline",
+        "poster_image_url" :  "http://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%28film%29_poster.jpg",
+        "trailer_youtube_url" :"https://www.youtube.com/watch?v=z3biFxZIJOQ"
+    },
+
+    "avatar" :{
+        "title" : "Avatar", 
+        "storyline" : "A marine on an alien planet.", 
+        "poster_image_url" : "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg", 
+        "trailer_youtube_url" : "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+    },   
+
+    "the_dark_knight" :{
+        "title" : "The Dark Knight", 
+        "storyline" : "storyline", 
+        "poster_image_url" :  "http://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg", 
+        "trailer_youtube_url" : "https://www.youtube.com/watch?v=yQ5U8suTUw0"
+    }, 
+
+    "interstellar " :{
+        "title" : "interstellar ", 
+        "storyline" : "storyline", 
+        "poster_image_url" :  "http://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg", 
+        "trailer_youtube_url" :"https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    }, 
+
+    "inception" :{
+        "title" : "inception ", 
+        "storyline" : "storyline", 
+        "poster_image_url" :    "http://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg", 
+        "trailer_youtube_url" : "https://www.youtube.com/watch?v=8hP9D6kZseM"
+    }, 
+
+    "hunger_games" :{
+        "title" : "interstellar ", 
+        "storyline" : "storyline", 
+        "poster_image_url" :       "http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+        "trailer_youtube_url" : "https://www.youtube.com/watch?v=PbA63a7H0bo"
+    }
+
+}
